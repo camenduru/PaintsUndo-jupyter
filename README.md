@@ -15,3 +15,6 @@ https://github.com/lllyasviel/Paints-UNDO
 https://lllyasviel.github.io/pages/paints_undo/
 
 ### 🖼 Output
+![Screenshot 2024-07-10 073730](https://github.com/camenduru/PaintsUndo-jupyter/assets/54370274/e4d6161e-8847-4739-b589-b2e889e45335)
+
+https://github.com/camenduru/PaintsUndo-jupyter/assets/54370274/c6a5226b-f1e9-45b9-913a-3e928b7fbd92
