@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PaintsUndo-jupyter/blob/main/PaintsUndo_jupyter.ipynb) | PaintsUndo_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PaintsUndo-jupyter/blob/main/PaintsUndo_jupyter.ipynb) | PaintsUndo_jupyter (Pro Colab High-RAM 😐)
 
 ### 🧬 Code
 https://github.com/lllyasviel/Paints-UNDO
